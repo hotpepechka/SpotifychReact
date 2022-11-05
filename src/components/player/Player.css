@@ -1,0 +1,42 @@
+.rhap_progress-indicator {
+    background: #36e77b !important;
+}
+.rhap_progress-filled {
+    background: #5ef682 !important;
+}
+.rhap_container{
+    line-height: 1 !important;
+    background-color:#748 !important;
+    height: 110px !important;
+    width: 700px !important;
+
+}
+
+div.rhap_container{
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px !important;
+    border-color: rgb(167, 79, 255)!important;
+
+
+}
+.rhap_header{
+    display: flex;
+    justify-content: center !important;
+    color: white;
+}
+div.rhap_time {
+    color: white;
+}
+.rhap_additional-controls{
+    color: white;
+}
+.audio-player{
+    margin-top: 200px;
+    position: sticky;
+    bottom: 15px !important;
+    background: rgba(0, 0, 0, 0);
+}
